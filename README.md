@@ -1,6 +1,6 @@
 "# Employee-System5" 
 
-Add modal window with dropdown servers 
+Add modal window with drop down servers 
 Fullstark web application uses Python 
 SQlite db for Database 
 React JS front-end 
